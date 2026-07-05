@@ -1,0 +1,55 @@
+{
+  "appName": "SmartChef AI",
+  "appId": "smartchef-ai",
+  "version": "1.0.0",
+  "description": "RAG Based Indian Recipe Preparation Agent using IBM watsonx.ai and IBM Granite Models",
+
+  "developer": {
+    "name": "Utsav Singh",
+    "college": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+    "branch": "Information Technology",
+    "year": "2nd Year",
+    "email": "utsavsinghthc@gmail.com"
+  },
+
+  "domain": "Artificial Intelligence & Food Technology",
+
+  "technologies": [
+    "IBM Build on IBM (BOB)",
+    "IBM watsonx.ai",
+    "IBM Granite 4.0",
+    "IBM Cloud Lite",
+    "Retrieval-Augmented Generation (RAG)",
+    "Vector Database (FAISS)"
+  ],
+
+  "ai": {
+    "provider": "IBM watsonx.ai",
+    "model": "Granite-4.0-8B-Instruct",
+    "framework": "RAG"
+  },
+
+  "knowledgeBase": {
+    "type": "PDF + JSON",
+    "content": "Indian Recipes Dataset",
+    "language": "English"
+  },
+
+  "features": [
+    "Recipe Recommendation",
+    "Ingredient Based Search",
+    "Cooking Instructions",
+    "Ingredient Substitution",
+    "Preparation Time",
+    "Serving Size",
+    "Cooking Tips"
+  ],
+
+  "deployment": {
+    "platform": "IBM Cloud Lite",
+    "environment": "Production"
+  },
+
+  "status": "Active",
+  "license": "MIT"
+}
