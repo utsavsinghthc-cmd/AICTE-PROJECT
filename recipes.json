@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Aloo Tomato Sabzi",
+    "ingredients": [
+      "potato",
+      "tomato",
+      "onion",
+      "oil",
+      "salt",
+      "turmeric",
+      "red chilli"
+    ],
+    "time": "25 minutes",
+    "serves": 4,
+    "instructions": [
+      "Heat oil in a pan.",
+      "Add chopped onions and cook until golden.",
+      "Add tomatoes and spices.",
+      "Add diced potatoes.",
+      "Cook for 15 minutes.",
+      "Serve hot with chapati."
+    ]
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "ingredients": [
+      "paneer",
+      "butter",
+      "tomato",
+      "cream",
+      "garam masala",
+      "salt"
+    ],
+    "time": "30 minutes",
+    "serves": 4,
+    "instructions": [
+      "Prepare tomato gravy.",
+      "Add butter and spices.",
+      "Add paneer cubes.",
+      "Cook for 10 minutes.",
+      "Add cream before serving."
+    ]
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "beans",
+      "capsicum",
+      "soy sauce",
+      "oil"
+    ],
+    "time": "20 minutes",
+    "serves": 3,
+    "instructions": [
+      "Heat oil.",
+      "Saute vegetables.",
+      "Add cooked rice.",
+      "Mix soy sauce.",
+      "Cook for 5 minutes."
+    ]
+  }
+]
